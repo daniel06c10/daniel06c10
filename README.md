@@ -14,9 +14,9 @@ Así mismo me gustaría tener la oportunidad de realizar parte de mis estudios e
 
 
 ## Idiomas que me Gustaría Aprender:
--  🇺🇸 Inglés
-- 🇵🇹 Portugués
-- 🇩🇪 Alemán
+- Inglés
+- Portugués
+- Alemán
 
 ## Lenguajes de Programación 💻:
 Conozco aspectos básicos sobre JAVA, sin embargo, espero pronfundizar más en el ámbito de la programación a futuro, abarcando más lenguajes de programación que son importantes en el contexto actual 
